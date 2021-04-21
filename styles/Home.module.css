@@ -1,9 +1,9 @@
 .banner {
   width: 100%;
   min-height: 300px;
-  background-size: cover;
-  background-position: center;
-  background-image: url('../public/img/banner-example.jpg');
+  background-size: 120%;
+  background-position: left;
+  background-image: url('../public/img/banner.jpg');
 }
 
 .greenCard {
