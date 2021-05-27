@@ -5,8 +5,8 @@ export default function Footer() {
   return (
     <footer className={styles.footer}>
       <Image
-        width='187'
-        height='70'
+        width='194'
+        height='55'
         src='/img/logo-white-stroke.png'
         alt='Logo NatuSau com borda branca'
       />

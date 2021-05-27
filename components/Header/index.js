@@ -7,8 +7,8 @@ export default function Header() {
       <Image
         src='/img/logo.png'
         alt='Logo NatuSau'
-        width='187'
-        height='70'
+        width='174'
+        height='42'
       />
       <ul>
         <li className={styles.active}>Home</li>
