@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/gcairesdev/natusau.com">
-        <img src="https://img.shields.io/github/languages/code-size/gcairesdev/natusau.com?color=00ae78&style=for-the-badge"></img>
+    <a href="https://github.com/gcairesdev/natusau">
+        <img src="https://img.shields.io/github/languages/code-size/gcairesdev/natusau?color=00ae78&style=for-the-badge"></img>
     </a>
-    <a href="https://github.com/gcairesdev/natusau.com/blob/master/LICENSE.md">
-        <img src="https://img.shields.io/github/languages/top/gcairesdev/natusau.com?color=00cc76&style=for-the-badge"></img>
+    <a href="https://github.com/gcairesdev/natusau/blob/master/LICENSE.md">
+        <img src="https://img.shields.io/github/languages/top/gcairesdev/natusau?color=00cc76&style=for-the-badge"></img>
     </a>
-    <a href="https://github.com/gcairesdev/natusau.com">
-        <img src="https://img.shields.io/github/license/gcairesdev/natusau.com?color=00ae78&style=for-the-badge"></img>
+    <a href="https://github.com/gcairesdev/natusau">
+        <img src="https://img.shields.io/github/license/gcairesdev/natusau?color=00ae78&style=for-the-badge"></img>
     </a>
 </p>
 
@@ -52,7 +52,7 @@ Para iniciar, veja os pré requisitos do projeto.
 Clone o repositório:
 
 ```git
-git clone https://github.com/gcairesdev/natusau.com
+git clone https://github.com/gcairesdev/natusau
 ```
 
 Instale as dependências
