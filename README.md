@@ -55,7 +55,13 @@ git clone https://github.com/gcairesdev/natusau.com
 Instale as dependências
 
 ```sh
-yarn
+npm i
+```
+
+Rode o projeto:
+
+```sh
+npm run dev
 ```
 
 ## Autor
