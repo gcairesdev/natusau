@@ -30,6 +30,9 @@
 
 Front-end WEB da NatuSau, feito com NextJS.
 
+<img src=".github/img/1.png"></img>
+<img src=".github/img/2.png"></img>
+
 ## Feito com
 * [NextJS](#)
 * [ReactJS](#)
